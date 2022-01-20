@@ -46,7 +46,7 @@ a.bottom__to__top.active {
     font-size: 15px !important;
   }
 }
-@media only screen and (max-width: 425px) {
+@media only screen and (max-width: 426px) {
   button.about.btn.pointer {
     text-transform: capitalize;
     width: 145px;
