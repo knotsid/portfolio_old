@@ -14,7 +14,6 @@ function App() {
        <About />
        <Service />
        <Project />
-       <Blog />
        <Contact />
        <Footer />
     </div>
